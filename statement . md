@@ -1,1 +1,51 @@
+# College Timetable and Task Planner 
 
+## Problem Statement
+
+College students need to manage their class timetable and academic tasks regularly. Managing class
+details, academic tasks, deadlines, priorities, and task completion status manually can make academic 
+pririties, and task completion status manually can make academic planning difficult. 
+
+The Collge Timetable and Task planner is a python - based application developed to provide a simple 
+and organised way to manage collge timetable information and academic task in one system. 
+
+## Scope of the Project 
+
+The project focuses on basic academic planning and task managemnet for collge stsudents .
+
+The system provides the following function :
+
+- Add and view college timetable entries.
+- Store the day, subject , class time, and room number. 
+- Add and view academic tasks. 
+- Track the status of academic tasks. 
+- Mark task as pending or completed 
+- Generate an academic reports showing timetable and task information.
+- Validate user menu choices and handle invalid input. 
+## Traget Users
+
+The primary target users of this project are: 
+
+- Collage students
+- Students who want to oraganized thier academic timetable .
+- Students who want to keep track of academic tasks and thier completion status. 
+
+## High- Level Featurs 
+
+## 1. Timetable Management 
+Users can add timetable details such as day, subjects, class time, and room number and view 
+the stored timetable .
+
+### 2. Academic Task Mnagement
+Users can manage thier academic tasks and view task detailed such as task name , subjects , deadline ,
+priority, and status. 
+
+### 3. Task Tracking 
+Users can select a task and update its status to either pending or copmpleted .
+
+### 4. Academic Reports 
+The system generate a report showing the total number of timetable entries, total academic tasks , 
+completed tasks, pending tasks, and task details.
+
+### 5. Input Validation 
+The system validates menu choices and display an error message when an invalids choice is entered.
